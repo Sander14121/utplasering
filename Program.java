@@ -10,5 +10,7 @@ public class Program {
         System.out.println(car2.manufacturers + " " + car2.model);
         Math matte1 = new Math(3,5);
         System.out.println(matte1.addison());
+        Math matte2 = new Math(3,5);
+        System.out.println(matte2.subtraksjon(5,3));
     }
 }
