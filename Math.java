@@ -10,5 +10,9 @@ public class Math {
         return tall1 + tall2;
     }
 
+    public int subtraksjon(int tall1, int tall2){
+        return tall1 - tall2;
+    }
+
 }
 
